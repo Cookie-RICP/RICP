@@ -1,0 +1,13 @@
+{
+    "www.apple.com": {
+        "necessary_cookies": "1",
+        "performance_cookies": "9",
+        "functionality_cookies": "22",
+        "targeting_cookies": "79",
+        "unknown_cookies": "117",
+        "persistent_cookies": "185",
+        "first_party_cookies": "101",
+        "session_cookies": "43",
+        "third_party_cookies": "127"
+    }
+}

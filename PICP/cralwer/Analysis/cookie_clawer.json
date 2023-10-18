@@ -1,0 +1,145 @@
+{
+  "samsung.com": {
+        "necessary_cookies": "5",
+        "performance_cookies": "17",
+        "functionality_cookies": "43",
+        "targeting_cookies": "201",
+        "unknown_cookies": "126",
+        "persistent_cookies": "302",
+        "first_party_cookies": "97",
+        "session_cookies": "92",
+        "third_party_cookies": "295"
+    },
+      "www.booking.com": {
+        "necessary_cookies": "4",
+        "performance_cookies": "8",
+        "functionality_cookies": "17",
+        "targeting_cookies": "650",
+        "unknown_cookies": "282",
+        "persistent_cookies": "883",
+        "first_party_cookies": "47",
+        "session_cookies": "78",
+        "third_party_cookies": "914"
+    },
+      "booking.com": {
+        "necessary_cookies": "4",
+        "performance_cookies": "8",
+        "functionality_cookies": "17",
+        "targeting_cookies": "650",
+        "unknown_cookies": "282",
+        "persistent_cookies": "883",
+        "first_party_cookies": "47",
+        "session_cookies": "78",
+        "third_party_cookies": "914"
+    },
+      "www.bing.com": {
+        "necessary_cookies": "4",
+        "performance_cookies": "41",
+        "functionality_cookies": "53",
+        "targeting_cookies": "485",
+        "unknown_cookies": "767",
+        "persistent_cookies": "1074",
+        "first_party_cookies": "155",
+        "session_cookies": "278",
+        "third_party_cookies": "1195"
+    },
+      "dell.com": {
+        "necessary_cookies": "5",
+        "performance_cookies": "115",
+        "functionality_cookies": "38",
+        "targeting_cookies": "544",
+        "unknown_cookies": "256",
+        "persistent_cookies": "788",
+        "first_party_cookies": "169",
+        "session_cookies": "170",
+        "third_party_cookies": "789"
+    },
+      "amazon.com": {
+        "necessary_cookies": "1",
+        "performance_cookies": "13",
+        "functionality_cookies": "20",
+        "targeting_cookies": "1568",
+        "unknown_cookies": "344",
+        "persistent_cookies": "1205",
+        "first_party_cookies": "109",
+        "session_cookies": "741",
+        "third_party_cookies": "1837"
+    },
+      "www.microsoftstore.com": {
+        "necessary_cookies": "1",
+        "performance_cookies": "53",
+        "functionality_cookies": "8",
+        "targeting_cookies": "233",
+        "unknown_cookies": "157",
+        "persistent_cookies": "371",
+        "first_party_cookies": "86",
+        "session_cookies": "81",
+        "third_party_cookies": "366"
+    },
+      "yahoo.com": {
+        "necessary_cookies": "0",
+        "performance_cookies": "1",
+        "functionality_cookies": "11",
+        "targeting_cookies": "1182",
+        "unknown_cookies": "293",
+        "persistent_cookies": "1308",
+        "first_party_cookies": "86",
+        "session_cookies": "179",
+        "third_party_cookies": "1401"
+    },
+      "paypal.com": {
+        "necessary_cookies": "2",
+        "performance_cookies": "3",
+        "functionality_cookies": "10",
+        "targeting_cookies": "63",
+        "unknown_cookies": "1152",
+        "persistent_cookies": "254",
+        "first_party_cookies": "950",
+        "session_cookies": "976",
+        "third_party_cookies": "280"
+    },
+      "www.paypal.com": {
+        "necessary_cookies": "2",
+        "performance_cookies": "3",
+        "functionality_cookies": "10",
+        "targeting_cookies": "63",
+        "unknown_cookies": "1152",
+        "persistent_cookies": "254",
+        "first_party_cookies": "950",
+        "session_cookies": "976",
+        "third_party_cookies": "280"
+    },
+  "linkedin.com": {
+        "necessary_cookies": "15",
+        "performance_cookies": "30",
+        "functionality_cookies": "276",
+        "targeting_cookies": "1207",
+        "unknown_cookies": "2265",
+        "persistent_cookies": "2658",
+        "first_party_cookies": "615",
+        "session_cookies": "1138",
+        "third_party_cookies": "3178"
+    },
+  "microsoft.com": {
+        "necessary_cookies": "5",
+        "performance_cookies": "54",
+        "functionality_cookies": "57",
+        "targeting_cookies": "456",
+        "unknown_cookies": "797",
+        "persistent_cookies": "887",
+        "first_party_cookies": "529",
+        "session_cookies": "484",
+        "third_party_cookies": "840"
+    },
+  "www.samsung.com": {
+        "necessary_cookies": "5",
+        "performance_cookies": "17",
+        "functionality_cookies": "43",
+        "targeting_cookies": "201",
+        "unknown_cookies": "126",
+        "persistent_cookies": "302",
+        "first_party_cookies": "97",
+        "session_cookies": "92",
+        "third_party_cookies": "295"
+    }
+}

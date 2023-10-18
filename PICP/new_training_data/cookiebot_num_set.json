@@ -1,0 +1,9092 @@
+{
+  "bj.58.com": {
+    "ServerLocation": "Netherlands",
+    "total": 68,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.alibaba.com": {
+    "ServerLocation": "Ireland",
+    "total": 131,
+    "Necessary":18,
+    "Preferences":3,
+    "Statistics":9,
+    "Marketing":32,
+    "regulate" :0
+  },
+  "lenovo.com": {
+    "ServerLocation": "Ireland",
+    "total": 97,
+    "Necessary":12,
+    "Preferences":1,
+    "Statistics":8,
+    "Marketing":37,
+    "regulate" :0
+  },
+  "www.163.com": {
+    "ServerLocation": "Ireland",
+    "total": 124,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.baidu.com": {
+    "ServerLocation": "Ireland",
+    "total": 39,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "tudou.com": {
+    "ServerLocation": "Ireland",
+    "total": 19,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "tv.sohu.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 63,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "iqiyi.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 51,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.sina.cn": {
+    "ServerLocation": "China",
+    "total": 48,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :12
+  },
+  "www.jb51.net": {
+    "ServerLocation": "United States",
+    "total": 68,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":43,
+    "regulate" :0
+  },
+  "yule.sohu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 32,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.docin.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "m.sohu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 184,
+    "Necessary":14,
+    "Preferences":4,
+    "Statistics":11,
+    "Marketing":113,
+    "regulate" :0
+  },
+  "jingyan.baidu.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 49,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.yxlady.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "movie.douban.com": {
+    "ServerLocation": "China",
+    "total": 123,
+    "Necessary":10,
+    "Preferences":3,
+    "Statistics":21,
+    "Marketing":86,
+    "regulate" :0
+  },
+  "www.anjuke.com": {
+    "ServerLocation": "Netherlands",
+    "total": 16,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.pconline.com.cn": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "image.baidu.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.chinaz.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "news.sohu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 74,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "www.tvmao.com": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.doc88.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.120ask.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.autohome.com.cn": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.jjwxc.net": {
+    "ServerLocation": "Netherlands",
+    "total": 22,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  " www.kuwo.cn": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":3,
+    "Marketing":9,
+    "regulate" :0
+  },
+  " www.56.com": {
+    "ServerLocation": " Hong Kong",
+    "total": 33,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "news.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 56,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  " www.2345.com": {
+    "ServerLocation": "Netherlands",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.51test.net": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.ctrip.com": {
+    "ServerLocation": "Ireland",
+    "total": 81,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "iask.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 25,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.ali213.net": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "onlinedown.net": {
+    "ServerLocation": "China",
+    "total": 47,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":9,
+    "regulate" :12
+  },
+  "www.56.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 33,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.pcauto.com.cn": {
+    "ServerLocation": "China",
+    "total": 50,
+    "Necessary":9,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "aizhan.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "fanyi.baidu.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "y.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "detail.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 53,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.mafengwo.com": {
+    "ServerLocation": "Netherlands",
+    "total": 26,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.onlinedown.net": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.smzdm.cn": {
+    "ServerLocation": "China",
+    "total": 112,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  " www.9ku.com": {
+    "ServerLocation": "China",
+    "total": 38,
+    "Necessary":2,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "ent.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 42,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "finance.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 50,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.tvmao.cn": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.soku.com": {
+    "ServerLocation": "United States",
+    "total": 24,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":2,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.sogou.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":2,
+    "regulate" :12
+  },
+  "dianping.com": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.66law.cn": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "china.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 16,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.cr173.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.4399.com": {
+    "ServerLocation": "France",
+    "total": 42,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "ip138.com": {
+    "ServerLocation": "Ukraine",
+    "total": 45,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  " www.zdic.net": {
+    "ServerLocation": "China",
+    "total": 71,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":7,
+    "Marketing":60,
+    "regulate" :0
+  },
+  "baixing.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "tech.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.tvsou.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 17,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.doc88.cn": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "games.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 48,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "blog.sina.com.cn": {
+    "ServerLocation": "China",
+    "total": 45,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.mafengwo.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 28,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "gamersky.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 23,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "download.csdn.net": {
+    "ServerLocation": "China",
+    "total": 66,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "xiazai.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 58,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":7,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "ishare.iask.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 35,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "hexun.com": {
+    "ServerLocation": "China",
+    "total": 36,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "soso.com": {
+    "ServerLocation": "Singapore",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "jobui.com": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "qqtn.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "diyifanwen.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.120ask.cn": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "weather.com.cn": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "qidian.com": {
+    "ServerLocation": "Netherlands",
+    "total": 19,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "jia.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.5068.cn": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "yesky.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "huanqiu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 16,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "v.163.com": {
+    "ServerLocation": "Netherlands",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "news.cntv.cn": {
+    "ServerLocation": "Ireland",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "news.qq.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "video.sina.com.cn": {
+    "ServerLocation": "Ireland",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "v.pptv.com": {
+    "ServerLocation": "Netherlands",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "weibo.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.autohome.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  " www.csdn.net": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.duote.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.ifeng.com": {
+    "ServerLocation": "Netherlands",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.people.com.cn": {
+    "ServerLocation": "Ukraine",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  " www.youku.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.5068.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "news.ifeng.com": {
+    "ServerLocation": "Netherlands",
+    "total": 108,
+    "Necessary":2,
+    "Preferences":2,
+    "Statistics":1,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "tingclass.net": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "wenwen.soso.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.xinhuanet.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "letv.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "cngold.org": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "book.douban.com": {
+    "ServerLocation": "China",
+    "total": 39,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":17,
+    "Marketing":17,
+    "regulate" :0
+  },
+  "dangdang.com": {
+    "ServerLocation": "China",
+    "total": 6,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "fwsir.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "m.jia.com": {
+    "ServerLocation": "China",
+    "total": 29,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.haodf.cn": {
+    "ServerLocation": "Singapore",
+    "total": 19,
+    "Necessary":3,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "7k7k.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "downxia.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  " www.chinadaily.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 12,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "news.4399.com": {
+    "ServerLocation": "Ukraine",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.gamersky.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 27,
+    "Necessary":8,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "tianqi.2345.com": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "dzwww.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :23
+  },
+  " www.apple.com.cn": {
+    "ServerLocation": "Ireland",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.familydoctor.com.cn": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  " www.weather.com.cn": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "sports.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 47,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.anjuke.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 31,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.jb51.com": {
+    "ServerLocation": "United States",
+    "total": 67,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":53,
+    "regulate" :0
+  },
+  "kongfz.com": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "xitongzhijia.net": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "paopaoche.net": {
+    "ServerLocation": "United States",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.techweb.com.cn": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "map.baidu.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 15,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.diyifanwen.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  " www.kuaidi100.com": {
+    "ServerLocation": "China",
+    "total": 41,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "ask.39.net": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "eol.cn": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.cnr.cn": {
+    "ServerLocation": "France",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "www.crsky.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.aizhan.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.ip138.com": {
+    "ServerLocation": "China",
+    "total": 35,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "lol.qq.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "chinadaily.com.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.haodf.com": {
+    "ServerLocation": "Singapore",
+    "total": 19,
+    "Necessary":3,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "360.cn": {
+    "ServerLocation": "China",
+    "total": 4,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.jobui.com": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.cnblogs.com": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":14,
+    "regulate" :0
+  },
+  "cnmo.com": {
+    "ServerLocation": "France",
+    "total": 28,
+    "Necessary":19,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "10086.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.cr173.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "meishichina.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "cr173.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "news.china.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "178.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "finance.ifeng.com": {
+    "ServerLocation": "Netherlands",
+    "total": 89,
+    "Necessary":4,
+    "Preferences":2,
+    "Statistics":1,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "www.gmw.cn": {
+    "ServerLocation": "France",
+    "total": 29,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "www.ce.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "product.auto.163.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "uzzf.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  " cnblogs.com": {
+    "ServerLocation": "China",
+    "total":24,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "yxdown.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "haote.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "kuaidi100.com": {
+    "ServerLocation": "China",
+    "total": 35,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "appchina.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" : 123
+  },
+  "im.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  " sports.qq.com": {
+    "ServerLocation": "Ireland",
+    "total": 28,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.9ku.com": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":2,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.smzdm.com": {
+    "ServerLocation": "China",
+    "total": 114,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "19lou.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "sj.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "1ting.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "zhaopin.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "xxsy.net": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "fund.eastmoney.com": {
+    "ServerLocation": "Netherlands",
+    "total": 40,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "gaokao.com": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "997788.com": {
+    "ServerLocation": "Ukraine",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "desktx.com": {
+    "ServerLocation": "Singapore",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.google.cn": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "pinshan.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 4,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.ems.com.cn": {
+    "ServerLocation": "China",
+    "total": 3,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "962.net": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.cnkang.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "mail.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 20,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.pc6.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 20,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.tmall.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 33,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":6,
+    "Marketing":5,
+    "regulate" :0
+  },
+  "search.dangdang.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.bilibili.com": {
+    "ServerLocation": "Germany",
+    "total": 29,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "fang.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":6,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "youlai.cn": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "ame: tianqi.com": {
+    "ServerLocation": "Netherlands",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "k.sina.com.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "eastmoney.com": {
+    "ServerLocation": "Netherlands",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "ruiwen.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "maigoo.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "hanyu.baidu.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "chazidian.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.youlai.cn": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "1905.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "ximalaya.com": {
+    "ServerLocation": "Netherlands",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "kugou.com": {
+    "ServerLocation": "Ukraine",
+    "total": 22,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "xueshu.baidu.com": {
+    "ServerLocation": "United States",
+    "total": 24,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.jianshu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 72,
+    "Necessary":2,
+    "Preferences":2,
+    "Statistics":4,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "b2b.baidu.com": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "m.fang.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "downcc.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "m.1688.com": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":4,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "11467.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "huatu.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "tianyancha.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.xuexila.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "www.renrendoc.com": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "3dmgame.com": {
+    "ServerLocation": "China",
+    "total": 76,
+    "Necessary":4,
+    "Preferences":5,
+    "Statistics":5,
+    "Marketing":26,
+    "regulate" :0
+  },
+  "le.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "9game.cn": {
+    "ServerLocation": "China",
+    "total": 43,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":16,
+    "regulate" :0
+  },
+  "gucheng.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "huangye88.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "mapbar.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "oh100.com": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "m.anjuke.com": {
+    "ServerLocation": "Netherlands",
+    "total": 51,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "zaixian-fanyi.com": {
+    "ServerLocation": "China",
+    "total": 41,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "huawei.com": {
+    "ServerLocation": "Ireland",
+    "total": 28,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":10,
+    "Marketing":15,
+    "regulate" :0
+  },
+  "www.qqtn.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "fanyi.youdao.com": {
+    "ServerLocation": "Japan",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "mydown.yesky.com": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.xxsy.net": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.xinshipu.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.1ting.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "zhibo8.cc": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "cctv.com": {
+    "ServerLocation": "Ireland",
+    "total": 12,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "search.bilibili.com": {
+    "ServerLocation": "Germany",
+    "total": 15,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.360doc.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "zhuanlan.zhihu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 48,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "haokan.baidu.com": {
+    "ServerLocation": "United States",
+    "total": 28,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.zhipin.com": {
+    "ServerLocation": "China",
+    "total": 70,
+    "Necessary":10,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "guba.eastmoney.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "wanfangdata.com.cn": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "search.jd.com": {
+    "ServerLocation": "Ireland",
+    "total": 32,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "lz13.cn": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "15tianqi.com": {
+    "ServerLocation": "United States",
+    "total": 30,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.wannianli8.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "wenwen.sogou.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "360kad.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.doyo.cn": {
+    "ServerLocation": "Germany",
+    "total": 63,
+    "Necessary":2,
+    "Preferences":5,
+    "Statistics":4,
+    "Marketing":21,
+    "regulate" :0
+  },
+  "pipaw.com": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.kanshu5.la": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "360che.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "m.qingting.fm": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.xianxue.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.huane.net": {
+    "ServerLocation": "China",
+    "total": 30,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.deppon.com": {
+    "ServerLocation": "China",
+    "total": 30,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "sports.sina.cn": {
+    "ServerLocation": "China",
+    "total": 57,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "nowscore.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "qq.yh31.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 16,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "zgjsks.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.zjrze.cn": {
+    "ServerLocation": "United States",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.biququ.com": {
+    "ServerLocation": "China",
+    "total": 41,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":37,
+    "regulate" :0
+  },
+  "qizuang.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "m.ali213.net": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "stock.stockstar.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "ppsj.com.cn": {
+    "ServerLocation": "China",
+    "total": 70,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":56,
+    "regulate" :0
+  },
+  "gaodun.com": {
+    "ServerLocation": "France",
+    "total": 55,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "kaijiang.78500.cn": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "sznews.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "cpta.com.cn": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "ydniu.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "zuzuche.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 36,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.51docs.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+"educity.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 38,
+    "Necessary":0,
+    "Preferences":2,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "baomihua.com": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :12
+  },
+  "dugoogle.com": {
+    "ServerLocation": "China",
+    "total": 4,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "ppkao.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.7722.org": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "puchedu.cn": {
+    "ServerLocation": "Hong Kong",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "rsdown.cn": {
+    "ServerLocation": "United States",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.xqqxs8.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "sinabz.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "haoma.baidu.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "yh31.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 19,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "college.gaokao.com": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "m.ilife.cn": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "800820.net": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.yinyangdailiren.org": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "dongqiudi.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "aikuaidi.cn": {
+    "ServerLocation": "Japan",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  " bkw.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "ly.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 51,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "map.mapbar.com": {
+    "ServerLocation": "United States",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.touxsw.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.18touch.com": {
+    "ServerLocation": "United States",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "ghjie.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "godic.net": {
+    "ServerLocation": "Finland",
+    "total": 23,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "bydauto.com.cn": {
+    "ServerLocation": "China",
+    "total": 46,
+    "Necessary":2,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "yidianzixun.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "okcis.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "renren.com": {
+    "ServerLocation": "China",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.1637.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "chahaoba.com": {
+    "ServerLocation": "China",
+    "total": 49,
+    "Necessary":8,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":36,
+    "regulate" :0
+  },
+  "m.city8.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "mt.sohu.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "jsyks.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.973.com": {
+    "ServerLocation": "United States",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.5nd.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.1miaomu.com": {
+    "ServerLocation": "United States",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "m.guba.eastmoney.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.shiyebian.net": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.wjx.cn": {
+    "ServerLocation": "China",
+    "total": 84,
+    "Necessary":2,
+    "Preferences":2,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "kafan.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.189.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.xinnet.com": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "live.bilibili.com": {
+    "ServerLocation": "Germany",
+    "total": 34,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "ixiumei.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 11,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "xuexiaodaquan.com": {
+    "ServerLocation": "United States",
+    "total": 10,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.qmbk.com": {
+    "ServerLocation": "United States",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "beijing-time.org": {
+    "ServerLocation": "China",
+    "total": 46,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":35,
+    "regulate" :0
+  },
+  "cnhnb.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "wajuejin.com": {
+    "ServerLocation": "United States",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "takungpao.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "app.4399.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :123
+  },
+  "zjrze.cn": {
+    "ServerLocation": "United States",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "k6uk.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "tran.httpcn.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "www.hackhome.com": {
+    "ServerLocation": "China",
+    "total": 47,
+    "Necessary":2,
+    "Preferences":5,
+    "Statistics":4,
+    "Marketing":21,
+    "regulate" :0
+  },
+  "cooco.net.cn": {
+    "ServerLocation": "China",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "xuewen.cnki.net": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":10,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "zgshige.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.hnmdjyl.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.buyiju.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.hihonor.com": {
+    "ServerLocation": "Ireland",
+    "total": 58,
+    "Necessary":8,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":15,
+    "regulate" :0
+  },
+  "www.gitee.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 45,
+    "Necessary":10,
+    "Preferences":2,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.mama.cn": {
+    "ServerLocation": "China",
+    "total": 17,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "dm5.com": {
+    "ServerLocation": "United States",
+    "total": 36,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.okaoyan.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "www.xsjjsx.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "mihoyo.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.3533.com": {
+    "ServerLocation": "Ukraine",
+    "total": 15,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "dict.zhuaniao.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":1,
+    "regulate" :2
+  },
+  "zixun.jia.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "588ku.com": {
+    "ServerLocation": "China",
+    "total": 57,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "cztv.com": {
+    "ServerLocation": "Netherlands",
+    "total": 15,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "qunar.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 42,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.jiaodong.net": {
+    "ServerLocation": "China",
+    "total": 32,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":7,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "sports.sohu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 29,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "www.7k7k.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.suning.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "newcar.xcar.com.cn": {
+    "ServerLocation": "China",
+    "total": 46,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "bkill.com": {
+    "ServerLocation": "United States",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "ent.ifeng.com": {
+    "ServerLocation": "Netherlands",
+    "total": 138,
+    "Necessary":4,
+    "Preferences":2,
+    "Statistics":1,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "ent.163.com": {
+    "ServerLocation": "Netherlands",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "680.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 32,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :12
+  },
+  "thea.cn": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "bbs.hupu.com": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "tgbus.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "eladies.sina.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 35,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.qidian.com": {
+    "ServerLocation": "Netherlands",
+    "total": 18,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "games.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "lenovo.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 48,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "it168.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "car.autohome.com.cn": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "icbc.com.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.qcc.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":2,
+    "regulate" :12
+  },
+  "jy135.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "18183.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":14,
+    "regulate" :0
+  },
+  "cnfla.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "downza.cn": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "www.yebaike.com": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "m.120ask.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.elecfans.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 37,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "quote.eastmoney.com": {
+    "ServerLocation": "Netherlands",
+    "total": 19,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "wap.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 43,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "pcbaby.com.cn": {
+    "ServerLocation": "China",
+    "total": 45,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "phb123.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "meipian.cn": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "vmall.com": {
+    "ServerLocation": "China",
+    "total": 40,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "yebaike.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.cqcb.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "51cto.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.19lou.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "ilife.cn": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "126.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "yto.net.cn": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.fwsir.com": {
+    "ServerLocation": "China",
+    "total": 30,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "search.suning.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "meizu.com": {
+    "ServerLocation": "Singapore",
+    "total": 25,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.speedtest.cn": {
+    "ServerLocation": "China",
+    "total": 107,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":57,
+    "regulate" :0
+  },
+  "m.qidian.com": {
+    "ServerLocation": "Netherlands",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "wow.178.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.yiche.com": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.to8to.com": {
+    "ServerLocation": "Netherlands",
+    "total": 37,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "yp.jd.com": {
+    "ServerLocation": "Ukraine",
+    "total": 27,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.cncn.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "haier.com": {
+    "ServerLocation": "Ireland",
+    "total": 85,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.5156edu.com": {
+    "ServerLocation": "United States",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.tingclass.net": {
+    "ServerLocation": "Hong Kong",
+    "total": 43,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":7,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "max.book118.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.kuai8.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "chsi.com.cn": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.unjs.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.meituan.com": {
+    "ServerLocation": "Singapore",
+    "total": 30,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "www.cnrencai.comn": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "top.chinaz.com": {
+    "ServerLocation": "United States",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "bidcenter.com.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "item.m.jd.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.699pic.com": {
+    "ServerLocation": "China",
+    "total": 52,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "m.ctrip.com": {
+    "ServerLocation": "Ireland",
+    "total": 285,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":5,
+    "regulate" :0
+  },
+  "www.quanmama.com": {
+    "ServerLocation": "United States",
+    "total": 81,
+    "Necessary":6,
+    "Preferences":3,
+    "Statistics":9,
+    "Marketing":39,
+    "regulate" :0
+  },
+  "dy.163.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "m.tvsou.com": {
+    "ServerLocation": "Netherlands",
+    "total": 16,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.8684.cn": {
+    "ServerLocation": "China",
+    "total": 47,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "dajie.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.xjxhd.cn": {
+    "ServerLocation": "United States",
+    "total": 23,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "szhk.com": {
+    "ServerLocation": "Germany",
+    "total": 31,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.52pk.com": {
+    "ServerLocation": "Ukraine",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.18183.com": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":16,
+    "regulate" :0
+  },
+  "office.com": {
+    "ServerLocation": "United States",
+    "total": 17,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.wasu.cn": {
+    "ServerLocation": "China",
+    "total": 40,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "music.163.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 43,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "airchina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.oh100.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.findlaw.cn": {
+    "ServerLocation": "China",
+    "total": 43,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "baiji.com.cn": {
+    "ServerLocation": "China",
+    "total": 44,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":12,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "you.ctrip.com": {
+    "ServerLocation": "Ireland",
+    "total": 214,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.youdao.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "m.makepolo.com": {
+    "ServerLocation": "China",
+    "total": 81,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":68,
+    "regulate" :0
+  },
+  "yue.ifeng.com": {
+    "ServerLocation": "United States",
+    "total": 106,
+    "Necessary":1,
+    "Preferences":2,
+    "Statistics":1,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "www.xueqiu.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "offcn.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "17house.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "m.downcc.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "www.meipian.cn": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "manmankan.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "dict.cn": {
+    "ServerLocation": "United States",
+    "total": 6,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "thepaper.cn": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "makepolo.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "yuwenmi.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "tongxiehui.net": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "ent.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.ximalaya.com": {
+    "ServerLocation": "Netherlands",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.tianqi.com": {
+    "ServerLocation": "Netherlands",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "hujiang.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 39,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "2265.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "10jqka.com.cn": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":4,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.gpbctv.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.chazidian.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "mnw.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "gaokao.chsi.com.cn": {
+    "ServerLocation": "China",
+    "total": 32,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "64365.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "class.hujiang.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 33,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "downyi.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "fh21.com.cn": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "ac.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.taodocs.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "guanjia.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 36,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.phb123.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.027art.com": {
+    "ServerLocation": "China",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.b2b168.com": {
+    "ServerLocation": "China",
+    "total": 41,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.dancihu.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "3g.china.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 30,
+    "Necessary":9,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "news.eastday.com": {
+    "ServerLocation": "France",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.codepub.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.lottery.gov.cn": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "m.icauto.com.cn": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.pincai.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "post.smzdm.com": {
+    "ServerLocation": "China",
+    "total": 95,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "tp-link.com": {
+    "ServerLocation": "United States",
+    "total": 14,
+    "Necessary":4,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.liqucn.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.cwl.gov.cn": {
+    "ServerLocation": "Germany ",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "e: www.douyin.com": {
+    "ServerLocation": "Netherlands",
+    "total": 73,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":14,
+    "regulate" :0
+  },
+  "m.dxsbb.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.w3school.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 37,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":7,
+    "Marketing":26,
+    "regulate" :0
+  },
+  "www.downza.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.duanmeiwen.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.aisoutu.com": {
+    "ServerLocation": "United States",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "pclady.com.cn": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "m.jobui.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.agoda.com": {
+    "ServerLocation": "Ireland",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "hjenglish.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "forex.hexun.com": {
+    "ServerLocation": "United States",
+    "total": 40,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.icauto.com.cn": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "a.xcar.com.cn": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.t262.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "wiki.mbalib.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.mbalib.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "99.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.jfdaily.com": {
+    "ServerLocation": "Russia",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "tag.120ask.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "waptianqi.2345.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "m.qqtn.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.11467.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.wandoujia.com": {
+    "ServerLocation": "China",
+    "total": 29,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "m.pcbaby.com.cn": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.myzaker.com": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :12
+  },
+  "www.lawtime.cn": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.gerenjianli.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 12,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "www.58pic.com": {
+    "ServerLocation": "China",
+    "total": 62,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "m.9ku.com": {
+    "ServerLocation": "China",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.dingtalk.com": {
+    "ServerLocation": "Singapore",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":4,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "www.lvmama.com": {
+    "ServerLocation": "China",
+    "total": 45,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "b2b.huangye88.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.xdf.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "news.youth.cn": {
+    "ServerLocation": "Germany",
+    "total": 45,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.ihuaben.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":2,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.51miz.com": {
+    "ServerLocation": "China",
+    "total": 48,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "bjtime.cn": {
+    "ServerLocation": "Germany",
+    "total": 34,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":6,
+    "regulate" :0
+  },
+  "www.500.com": {
+    "ServerLocation": "China",
+    "total": 46,
+    "Necessary":4,
+    "Preferences":3,
+    "Statistics":10,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.hjenglish.com": {
+    "ServerLocation": " United Kingdom",
+    "total": 40,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.youbianku.com": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.gamedog.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.xiachufang.com": {
+    "ServerLocation": "China",
+    "total": 54,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":9,
+    "Marketing":31,
+    "regulate" :0
+  },
+  "quotes.money.163.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "mguba.eastmoney.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.redocn.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.thepaper.cn": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.chinapp.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "cli.im": {
+    "ServerLocation": "China",
+    "total": 96,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.iqilu.com": {
+    "ServerLocation": "China",
+    "total": 17,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "jfdaily.com": {
+    "ServerLocation": "Russia",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.mipang.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "www.021diao.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 28,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.loupan.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.yuwenmi.com": {
+    "ServerLocation": "China",
+    "total": 29,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "m.cngold.org": {
+    "ServerLocation": "United Kingdom",
+    "total": 23,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "business.sohu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 94,
+    "Necessary":4,
+    "Preferences":2,
+    "Statistics":5,
+    "Marketing":24,
+    "regulate" :0
+  },
+  "jobs.zhaopin.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.jia.com": {
+    "ServerLocation": "China",
+    "total": 53,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.jy135.com": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.52pojie.cn": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.tvzn.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.yqxs.cc": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.kt250.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.wenming.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "china.huanqiu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.yicai.com": {
+    "ServerLocation": "Spain",
+    "total": 14,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.china.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.news.e23.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.yingjiesheng.com": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.qianlong.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "auto.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 27,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "china.findlaw.cn": {
+    "ServerLocation": "China",
+    "total": 40,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "dnf.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "mil.news.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 50,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "douguo.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 25,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.cngold.org": {
+    "ServerLocation": "China",
+    "total": 40,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "fashion.ifeng.com": {
+    "ServerLocation": "Netherlands",
+    "total": 112,
+    "Necessary":2,
+    "Preferences":2,
+    "Statistics":1,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "www.wang1314.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.chaoxing.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.yy.com": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "made-in-china.com": {
+    "ServerLocation": "China",
+    "total": 101,
+    "Necessary":10,
+    "Preferences":1,
+    "Statistics":8,
+    "Marketing":57,
+    "regulate" :0
+  },
+  "52pojie.cn": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.yto.net.cn": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "stock.10jqka.com.cn": {
+    "ServerLocation": "China",
+    "total": 44,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":7,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "edu.sina.com.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 47,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "mail.163.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 26,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.bjnews.com.cn": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "hishop.com.cn": {
+    "ServerLocation": "Hong Kong",
+    "total": 24,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "bbs.3dmgame.com": {
+    "ServerLocation": "China",
+    "total": 32,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "open.163.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "www.wanfangdata.com.cn": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.oschina.net": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":2,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "cf.qq.com": {
+    "ServerLocation": "China",
+    "total": 102,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.dzwww.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 22,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.hao123.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 48,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.iteye.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.kekenet.com": {
+    "ServerLocation": "Netherlands",
+    "total": 60,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":49,
+    "regulate" :0
+  },
+  "club.autohome.com.cn": {
+    "ServerLocation": "China",
+    "total": 32,
+    "Necessary":6,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.ithome.com": {
+    "ServerLocation": "Netherlands",
+    "total": 15,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.houxue.com": {
+    "ServerLocation": "China",
+    "total": 63,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "blog.51cto.com": {
+    "ServerLocation": "China",
+    "total": 4,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.uzzf.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.okooo.com": {
+    "ServerLocation": "China",
+    "total": 55,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "examw.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 30,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "hotels.ctrip.com": {
+    "ServerLocation": "Ireland",
+    "total": 122,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":14,
+    "regulate" :0
+  },
+  "www.gaokao.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.yxdown.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.yuloo.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "sports.163.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":4,
+    "regulate" :3
+  },
+  "db.auto.sohu.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "elong.com": {
+    "ServerLocation": "Netherlands",
+    "total": 19,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.boc.cn": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "news.candou.com": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "3g.d1xz.net": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.eeo.com.cn": {
+    "ServerLocation": "China",
+    "total": 30,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.cz89.com": {
+    "ServerLocation": "China",
+    "total": 48,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "jz5u.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "m.hupu.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.maoyan.com": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.jiwu.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "ent.iqilu.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.zqnf.com": {
+    "ServerLocation": "United States",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "www.yixue.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+"www.lljyj.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "stockstar.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.pcsoft.com.cn": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.tuniu.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.xdowns.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.hujiang.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 41,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :123
+  },
+  "www.zhenai.com": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "book.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.che168.com": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.xunlei.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "cwl.gov.cn": {
+    "ServerLocation": "United Kingdoma",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.51sole.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 70,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "www.youth.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 33,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "mp.weixin.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 27,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.fengsung.com": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "fwol.cn": {
+    "ServerLocation": "China",
+    "total": 39,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.jianke.com": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.wmzhe.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "mip.findlaw.cn": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.ddooo.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "m.kuaidi100.com": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.cnfla.com": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "tv.2345.com": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.liepin.com": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "club.m.autohome.com.cn": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.64365.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+"www.tuiyang.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.quote.cfi.cn": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "m.xuexila.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.ahsrst.cn": {
+    "ServerLocation": "China",
+    "total": 29,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.woyaogexing.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 15,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.ccutu.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.fanqianxs.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.1010jiajiao.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "ci.aizhan.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.12371.cn": {
+    "ServerLocation": "France",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "www.3dsc.com": {
+    "ServerLocation": "United States",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.kq7.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.kaola.com": {
+    "ServerLocation": "China",
+    "total": 44,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":4,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "henan.china.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "news.duote.com": {
+    "ServerLocation": "China",
+    "total": 48,
+    "Necessary":3,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":16,
+    "regulate" :0
+  },
+  "www.kanzhun.com": {
+    "ServerLocation": "China",
+    "total": 44,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.pingguolv.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.eastday.com": {
+    "ServerLocation": "France",
+    "total": 13,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.sf-express.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.cheshi.com": {
+    "ServerLocation": "Germany",
+    "total": 15,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "php.cn": {
+    "ServerLocation": "Ukraine",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.shdjt.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.zongheng.com": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "kaijiang.500.com": {
+    "ServerLocation": "China",
+    "total": 42,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":8,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "pchouse.com.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.hnhaofang.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "httpcn.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.xzw.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.mnw.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "huocheso.com": {
+    "ServerLocation": " Singapore",
+    "total": 2,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "m.buyiju.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.ixigua.com": {
+    "ServerLocation": "Netherlands",
+    "total": 26,
+    "Necessary": 1,
+    "Preferences": 0,
+    "Statistics": 0,
+    "Marketing": 6,
+    "regulate" :3
+  },
+  "www.2265.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :12
+  },
+  "www.qinxue365.com": {
+    "ServerLocation": "China",
+    "total": 48,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.manmankan.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 49,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "cloud.tencent.com": {
+    "ServerLocation": "Singapore",
+    "total": 51,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "www.huangye88.com": {
+    "ServerLocation": "China",
+    "total": 32,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "u9yy.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.tcmap.com.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "17k.com": {
+    "ServerLocation": "Netherlands",
+    "total": 31,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "court.gov.cn": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "1637.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "jiangzi.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 26,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "cfi.cn": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+"tools.2345.com": {
+    "ServerLocation": "China",
+    "total": 58,
+    "Necessary":3,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":16,
+    "regulate" :0
+  },
+  "www.ly6s.com": {
+    "ServerLocation": "United States",
+    "total": 23,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.hongxiu.com": {
+    "ServerLocation": "China",
+    "total": 38,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "xinnet.com": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.acfun.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 25,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.mfk.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "m.8684.cn": {
+    "ServerLocation": "China",
+    "total": 40,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":17,
+    "regulate" :0
+  },
+  "www.qindaosou.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.jianpu.cn": {
+    "ServerLocation": "China",
+    "total": 29,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":23,
+    "regulate" :0
+  },
+  "www.uuu9.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 18,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.southcn.com": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.gaosan.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "zjol.com.cn": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.5h.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.quword.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "wannianli.tianqi.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.yzz.cn": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.12306.cn": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.huya.com": {
+    "ServerLocation": "Netherlands",
+    "total": 45,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "jobs.51job.com": {
+    "ServerLocation": "China",
+    "total": 3,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.bohe.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "leleketang.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.shicimingju.com": {
+    "ServerLocation": "United States",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.runoob.com": {
+    "ServerLocation": "United States",
+    "total": 58,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":43,
+    "regulate" :0
+  },
+  "www.lofter.com": {
+    "ServerLocation": "Singapore",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "mip.woyaogexing.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "55125.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.cidianwang.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "sports.cctv.com": {
+    "ServerLocation": "Ireland",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "hunliji.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "mip.downza.cn": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "39yst.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "e23.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "pvp.qq.com": {
+    "ServerLocation": "Germany",
+    "total": 63,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "qiuyi.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "189.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.hc23.com": {
+    "ServerLocation": "China",
+    "total": 4,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "yz.chsi.com.cn": {
+    "ServerLocation": "China",
+    "total": 30,
+    "Necessary":8,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "dytt8.net": {
+    "ServerLocation": "United States",
+    "total": 32,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "99166.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "geren-jianli.org": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "chinanews.com.cn": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :123
+  },
+  "www.haiwainet.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "dbw.cn": {
+    "ServerLocation": "China",
+    "total":0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "3g.ali213.net": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.dxsbb.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "price.pcauto.com.cn": {
+    "ServerLocation": "China",
+    "total": 30,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.pomowx.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.yaoruanwen.com": {
+    "ServerLocation": "United States",
+    "total": 15,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.yxbao.com": {
+    "ServerLocation": "United States",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "m.lianjia.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.8684.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":15,
+    "regulate" :0
+  },
+  "weather.mipang.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "wap.yesky.com": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.k73.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 48,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "www.honpu.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.candou.com": {
+    "ServerLocation": "China",
+    "total": 3,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "zgjm.org": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.trustexporter.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.amap.com": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":1,
+    "Preferences":1,
+    "Statistics":4,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "www.tooopen.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.wps.cn": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "open.baidu.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "keoaeic.org": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.leju.com": {
+    "ServerLocation": "China",
+    "total": 35,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.xingzuo360.cn": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "article.pchome.net": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.mingluji.com": {
+    "ServerLocation": "China",
+    "total": 56,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":46,
+    "regulate" :0
+  },
+  "www.yundaex.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "huabaike.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.cmbchina.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.912688.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.duitang.com": {
+    "ServerLocation": "China",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.ssqzj.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "pc.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.chunyuyisheng.com": {
+    "ServerLocation": "China",
+    "total": 12,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.xayg.cn": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "boohee.com": {
+    "ServerLocation": "China",
+    "total": 59,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.qingting.fm": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.jiamengfei.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.kuaiji.com": {
+    "ServerLocation": "China",
+    "total": 35,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.07073.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.1kkk.com": {
+    "ServerLocation": "United States",
+    "total": 36,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.wanmei.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.cnys.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.wenshubang.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "web.4399.com": {
+    "ServerLocation": "France",
+    "total": 31,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "money.163.com": {
+    "ServerLocation": "Netherlands",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "duitang.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "news.163.com": {
+    "ServerLocation": "Netherlands",
+    "total": 35,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.lenovo.com.cn": {
+    "ServerLocation": "United States",
+    "total": 34,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "www.eefocus.com": {
+    "ServerLocation": "China",
+    "total": 83,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":17,
+    "Marketing":20,
+    "regulate" :0
+  },
+  "www.huawei.com": {
+    "ServerLocation": "Ireland",
+    "total": 16,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.iciba.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "aq.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "world.huanqiu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 16,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.360.cn": {
+    "ServerLocation": "China",
+    "total": 4,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "nipic.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "ent.yxlady.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "tech.huanqiu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "ycwb.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "finance.people.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 17,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "36kr.com": {
+    "ServerLocation": "China",
+    "total": 17,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "yun.baidu.com": {
+    "ServerLocation": "China",
+    "total": 6,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "alibaba.com.cn": {
+    "ServerLocation": "China",
+    "total": 44,
+    "Necessary":3,
+    "Preferences":2,
+    "Statistics":6,
+    "Marketing":6,
+    "regulate" :0
+  },
+  "huaban.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "bbs.pinggu.org": {
+    "ServerLocation": "China",
+    "total": 39,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "mobile.zol.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 87,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "chinasspp.com": {
+    "ServerLocation": "China",
+    "total": 60,
+    "Necessary":4,
+    "Preferences":3,
+    "Statistics":4,
+    "Marketing":21,
+    "regulate" :0
+  },
+  "www.ickd.cn": {
+    "ServerLocation": "China",
+    "total": 80,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":35,
+    "regulate" :0
+  },
+  "voc.com.cn": {
+    "ServerLocation": "China",
+    "total": 22,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "jiayuan.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.thea.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 25,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.verycd.com": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "ooopic.com": {
+    "ServerLocation": "China",
+    "total": 40,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "bj.city8.com": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "qzone.qq.com": {
+    "ServerLocation": "China",
+    "total": 17,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.pcpop.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.5173.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.meishichina.com": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":14,
+    "regulate" :0
+  },
+  "www.wenmi.com": {
+    "ServerLocation": "China",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.xitongcheng.com": {
+    "ServerLocation": "United States",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.win4000.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 4,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.hnr.cn": {
+    "ServerLocation": "Russia",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.zhouyi.cc": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "vogue.com.cn": {
+    "ServerLocation": "United States",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.zhms.cn": {
+    "ServerLocation": "Hong Kong",
+    "total": 13,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.grfyw.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.examw.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 36,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.guancha.cn": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.jiameng.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.xjauto.net": {
+    "ServerLocation": "United States",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :123
+  },
+  "youxiniao.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "baike.sogou.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 13,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "ziyimall.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.xbiao.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.hqwx.com": {
+    "ServerLocation": "China",
+    "total": 49,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.cnrencai.com": {
+    "ServerLocation": "China",
+    "total": 21,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.huxiu.com": {
+    "ServerLocation": "United States",
+    "total": 20,
+    "Necessary":4,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "kaoshi.china.com": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "wbiao.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 25,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.dengbi.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.sto.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "cpc.people.com.cn": {
+    "ServerLocation": "Ukraine",
+    "total": 3,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.mi.com": {
+    "ServerLocation": "United Kingdom",
+    "total":58,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":14,
+    "regulate" :0
+  },
+  "www.hc360.com": {
+    "ServerLocation": "China",
+    "total": 36,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "zhongkao.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "www.downyi.com": {
+    "ServerLocation": "China",
+    "total":0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.phbang.cn": {
+    "ServerLocation": "United States",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.jj20.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 19,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.shangc.net": {
+    "ServerLocation": "Hong Kong",
+    "total": 11,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "m.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 31,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.66game.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "ifanr.com": {
+    "ServerLocation": "United States",
+    "total": 41,
+    "Necessary":3,
+    "Preferences":3,
+    "Statistics":7,
+    "Marketing":15,
+    "regulate" :0
+  },
+  "www.jdidi.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.qulishi.com": {
+    "ServerLocation": "Singapore",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.zxxk.com": {
+    "ServerLocation": "China",
+    "total": 3,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "wap.17house.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.qixin.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.southmoney.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "readnovel.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 29,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "china.cnr.cn": {
+    "ServerLocation": "France",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "www.gucheng.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "oray.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "ask.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 57,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "music.douban.com": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":14,
+    "Marketing":15,
+    "regulate" :0
+  },
+  "china.makepolo.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "lady.163.com": {
+    "ServerLocation": "Netherlands",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "51766.com": {
+    "ServerLocation": "Seychelles",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.bkill.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "product.cheshi.com": {
+    "ServerLocation": "Germany",
+    "total": 20,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "map.sogou.com": {
+    "ServerLocation": "France",
+    "total": 3,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "politics.people.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "northnews.cn": {
+    "ServerLocation": "China",
+    "total": 12,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.qc188.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 16,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "finance.china.com.cn": {
+    "ServerLocation": "United States",
+    "total": 19,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "driver.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "finance.gucheng.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "cn.made-in-china.com": {
+    "ServerLocation": "China",
+    "total": 52,
+    "Necessary":7,
+    "Preferences":0,
+    "Statistics":8,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.exam8.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "diandian.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "mamecn.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "stockhtm.finance.qq.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "zcool.com.cn": {
+    "ServerLocation": "China",
+    "total": 42,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics": 0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "job592.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.kongfz.com": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "go.cqmmgo.com": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.gome.com.cn": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":8,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "show160.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 4,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.680.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 32,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "tech.ifeng.com": {
+    "ServerLocation": "Netherlands",
+    "total": 71,
+    "Necessary":1,
+    "Preferences":2,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "fengsung.com": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "admin5.com": {
+    "ServerLocation": "Netherlands",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "rednet.cn": {
+    "ServerLocation": "China",
+    "total": 15,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "shubang.net": {
+    "ServerLocation": "Hong Kong",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "med66.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "kf.qq.com": {
+    "ServerLocation": "China",
+    "total": 6,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "m.gmz88.com": {
+    "ServerLocation": "China",
+    "total": 13,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "99danji.com": {
+    "ServerLocation": "China",
+    "total":24,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "win7zhijia.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "xiaobaixitong.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.gzfc.net": {
+    "ServerLocation": "United States",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "m.gamedog.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "netbian.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "deyi.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "5ykj.com": {
+    "ServerLocation": "Hong Kong",
+    "total":4,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.zcool.com.cn": {
+    "ServerLocation": "China",
+    "total": 52,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":8,
+    "Marketing":15,
+    "regulate" :0
+  },
+  "kuaikanmanhua.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 21,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.bidcenter.com.cn": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.gushiju.net": {
+    "ServerLocation": "China",
+    "total": 17,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "huilv.cc": {
+    "ServerLocation": "Singapore",
+    "total": 72,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":5,
+    "Marketing":61,
+    "regulate" :0
+  },
+  "www.5577.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "hebnews.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "qingdaonews.com": {
+    "ServerLocation": "United States",
+    "total": 25,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "dxy.cn": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.17yy.com": {
+    "ServerLocation": "China",
+    "total": 18,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.1ppt.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "qianzhan.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.douyu.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 27,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.zhaopin.com": {
+    "ServerLocation": "China",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.tangdou.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "news.iqilu.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "cqvip.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "youboy.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 2,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "download.pchome.net": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "gxnews.com.cn": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "fengniao.com": {
+    "ServerLocation": "China",
+    "total": 20,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.m.baidu.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "map.so.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "tech.163.com": {
+    "ServerLocation": "Netherlands",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "ha.huatu.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 61,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":14,
+    "regulate" :0
+  },
+  "www.962.net": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "home.meishichina.com": {
+    "ServerLocation": "Netherlands",
+    "total": 44,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":16,
+    "regulate" :0
+  },
+  "ofweek.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 28,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "checi.cn": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "chinaacc.com": {
+    "ServerLocation": "Netherlands",
+    "total": 43,
+    "Necessary":6,
+    "Preferences":1,
+    "Statistics":2,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "culture.people.com.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "game.ali213.net": {
+    "ServerLocation": "United Kingdom",
+    "total": 58,
+    "Necessary":3,
+    "Preferences":1,
+    "Statistics":5,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "m.haodf.com": {
+    "ServerLocation": "Singapore",
+    "total": 27,
+    "Necessary":3,
+    "Preferences":2,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "rili.com.cn": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "cyol.com": {
+    "ServerLocation": "China",
+    "total": 11,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "cri.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "blogchina.com": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "g.pclady.com.cn": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":7,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "xiaobaipan.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "xayg.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.zx123.cn": {
+    "ServerLocation": "China",
+    "total": 44,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.yangtse.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.frdic.com": {
+    "ServerLocation": "Finland",
+    "total": 23,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.yetianlian.com": {
+    "ServerLocation": "United States",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "desk.zol.com.cn": {
+    "ServerLocation": "China",
+    "total": 33,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "fund.10jqka.com.cn": {
+    "ServerLocation": "China",
+    "total": 45,
+    "Necessary":5,
+    "Preferences":1,
+    "Statistics":7,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.dangdang.com": {
+    "ServerLocation": "China",
+    "total": 6,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "geely.com": {
+    "ServerLocation": "Ireland",
+    "total": 6,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "www.zysj.com.cn": {
+    "ServerLocation": "Hong Kong",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "donews.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "louisvuitton.com": {
+    "ServerLocation": "Ireland",
+    "total": 9,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":0,
+    "regulate" :3
+  },
+  "www.donews.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.233.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 109,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "365jia.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.kuwo.cn": {
+    "ServerLocation": "China",
+    "total": 16,
+    "Necessary":0,
+    "Preferences":1,
+    "Statistics":3,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "blog.csdn.net": {
+    "ServerLocation": "China",
+    "total": 64,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":15,
+    "regulate" :0
+  },
+  "www.book118.com": {
+    "ServerLocation": "China",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.1688.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 28,
+    "Necessary":2,
+    "Preferences":1,
+    "Statistics":4,
+    "Marketing":4,
+    "regulate" :0
+  },
+  "www.douban.com": {
+    "ServerLocation": "China",
+    "total": 38,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":9,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.sohu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 189,
+    "Necessary":11,
+    "Preferences":6,
+    "Statistics":14,
+    "Marketing":94,
+    "regulate" :0
+  },
+  "v.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 106,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":9,
+    "Marketing":6,
+    "regulate" :0
+  },
+  "sina.com.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 43,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "www.zhihu.com": {
+    "ServerLocation": "Netherlands",
+    "total": 42,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "haoyunbb.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "pku.edu.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "top.baidu.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "frdic.com": {
+    "ServerLocation": "Finland",
+    "total": 7,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "ah.huatu.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 37,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.78500.cn": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "5sing.kugou.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 22,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":2,
+    "regulate" :0
+  },
+  "ea3w.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":6,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.chinawenwang.com": {
+    "ServerLocation": "China",
+    "total": 38,
+    "Necessary":6,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":24,
+    "regulate" :0
+  },
+  "zysj.com.cn": {
+    "ServerLocation": "Hong Kong",
+    "total": 14,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "11773.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 11,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "81.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "3533.com": {
+    "ServerLocation": "Ukraine",
+    "total": 23,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "webmasterhome.cn": {
+    "ServerLocation": "China",
+    "total": 69,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":43,
+    "regulate" :0
+  },
+  "mren.bytravel.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.feedwhy.com": {
+    "ServerLocation": "China",
+    "total": 32,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.55125.cn": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.youxi369.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.aicai.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "sdo.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "gd.huatu.com": {
+    "ServerLocation": "Germany",
+    "total": 70,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":13,
+    "regulate" :0
+  },
+  "zgzcw.com": {
+    "ServerLocation": "China",
+    "total": 25,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.itmop.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "wenmi.com": {
+    "ServerLocation": "China",
+    "total": 12,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.zhcw.com": {
+    "ServerLocation": "China",
+    "total": 51,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "www.qianlima.com": {
+    "ServerLocation": "China",
+    "total": 34,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "www.81.cn": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "tsinghua.edu.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.828la.com": {
+    "ServerLocation": "China",
+    "total": 26,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "dongao.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 37,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "autotimes.com.cn": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "b2b.11467.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "db.auto.sina.com.cn": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.koolearn.com": {
+    "ServerLocation": "China",
+    "total": 76,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":4,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "jiangsu.gov.cn": {
+    "ServerLocation": "China",
+    "total": 9,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.babla.cn": {
+    "ServerLocation": "China",
+    "total": 32,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":17,
+    "regulate" :0
+  },
+  "stock.hexun.com": {
+    "ServerLocation": "China",
+    "total": 50,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":11,
+    "regulate" :0
+  },
+  "stockpage.10jqka.com.cn": {
+    "ServerLocation": "China",
+    "total": 35,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":10,
+    "regulate" :0
+  },
+  "www.fxxz.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.3dmgame.com": {
+    "ServerLocation": "China",
+    "total": 86,
+    "Necessary":4,
+    "Preferences":6,
+    "Statistics":5,
+    "Marketing":25,
+    "regulate" :0
+  },
+  "gongshang.mingluji.com": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "dengbi.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.chinatax.gov.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "1234567.com.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "hunt007.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.fljxhg.net": {
+    "ServerLocation": "United States",
+    "total": 3,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":2,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.zhuangpeitu.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "m.pc6.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.czxsdn.com": {
+    "ServerLocation": "United States",
+    "total": 3,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "17yy.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :123
+  },
+  "xh.5156edu.com": {
+    "ServerLocation": "United States",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "kaoyan.com": {
+    "ServerLocation": "China",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "53shop.com": {
+    "ServerLocation": "China",
+    "total": 27,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "114piaowu.com": {
+    "ServerLocation": "China",
+    "total": 1,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.huangjinjiage.cn": {
+    "ServerLocation": "China",
+    "total": 24,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "1ppt.com": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "7788.com": {
+    "ServerLocation": "Ukraine",
+    "total": 10,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.fun.tv": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "www.jiemian.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":1,
+    "regulate" :3
+  },
+  "9939.com": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "jxnews.com.cn": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "www.sporttery.cn": {
+    "ServerLocation": "China",
+    "total": 2,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :12
+  },
+  "caixin.com": {
+    "ServerLocation": "United States",
+    "total": 26,
+    "Necessary":3,
+    "Preferences":0,
+    "Statistics":3,
+    "Marketing":1,
+    "regulate" :0
+  },
+  "16888.com": {
+    "ServerLocation": "China",
+    "total": 35,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":3,
+    "regulate" :0
+  },
+  "m.hackhome.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "yimuhe.com": {
+    "ServerLocation": "United States",
+    "total": 9,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":5,
+    "regulate" :0
+  },
+  "dahe.cn": {
+    "ServerLocation": "Hong Kong",
+    "total": 9,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :123
+  },
+  "www.yw11.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 37,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "taoguba.com.cn": {
+    "ServerLocation": "China",
+    "total": 40,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "m.findlaw.cn": {
+    "ServerLocation": "China",
+    "total": 37,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":9,
+    "regulate" :0
+  },
+  "kuaishou.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "typhoon.zjwater.gov.cn": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "babla.cn": {
+    "ServerLocation": "United States",
+    "total": 33,
+    "Necessary":5,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":18,
+    "regulate" :0
+  },
+  "www.fyrsks.com": {
+    "ServerLocation": "United States",
+    "total": 12,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "www.oppo.com": {
+    "ServerLocation": "Ireland",
+    "total": 46,
+    "Necessary":4,
+    "Preferences":1,
+    "Statistics":14,
+    "Marketing":20,
+    "regulate" :0
+  },
+  "gj.aizhan.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 9,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "www.shuotui.com": {
+    "ServerLocation": "China",
+    "total": 8,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "cankaoxiaoxi.com": {
+    "ServerLocation": "China",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "www.puchedu.cn": {
+    "ServerLocation": "Hong Kong",
+    "total": 19,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "antpedia.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 13,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "abchina.com": {
+    "ServerLocation": "China",
+    "total": 5,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "tuliu.com": {
+    "ServerLocation": "China",
+    "total": 14,
+    "Necessary":2,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "wx.qq.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 4,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :2
+  },
+  "romzhijia.net": {
+    "ServerLocation": "United States",
+    "total": 8,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :12
+  },
+  "www.idafoo.com": {
+    "ServerLocation": "Hong Kong",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":7,
+    "regulate" :0
+  },
+  "289.com": {
+    "ServerLocation": "United Kingdom",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :123
+  },
+  "fun.tv": {
+    "ServerLocation": "China",
+    "total": 28,
+    "Necessary":4,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":12,
+    "regulate" :0
+  },
+  "ccdi.gov.cn": {
+    "ServerLocation": "China",
+    "total": 7,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":0,
+    "regulate" :0
+  },
+  "www.17500.cn": {
+    "ServerLocation": "China",
+    "total": 29,
+    "Necessary":2,
+    "Preferences":1,
+    "Statistics":1,
+    "Marketing":8,
+    "regulate" :0
+  },
+  "www.downxia.com": {
+    "ServerLocation": "Netherlands",
+    "total": 37,
+    "Necessary":1,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "www.stats.gov.cn": {
+    "ServerLocation": "Netherlands",
+    "total": 0,
+    "Necessary":0,
+    "Preferences":0,
+    "Statistics":0,
+    "Marketing":8,
+    "regulate" :123
+  },
+  "culture.ifeng.com": {
+    "ServerLocation": "United States",
+    "total": 105,
+    "Necessary":2,
+    "Preferences":2,
+    "Statistics":1,
+    "Marketing":2,
+    "regulate" :0
+  }
+}

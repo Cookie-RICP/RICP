@@ -1,0 +1,19 @@
+{"ASP.NET_SessionId;epfister.pfisterfaucets.com;/;http://epfister.pfisterfaucets.com/":
+  {"visit_id": 1,
+    "name": "ASP.NET_SessionId",
+    "domain": "epfister.pfisterfaucets.com",
+    "path": "/",
+    "first_party_domain": "http://epfister.pfisterfaucets.com/",
+    "label": 0,
+    "cmp_origin": 1,
+    "variable_data":
+      [{"value": "lfpsc155y5kyjl45fkf4vfbq",
+        "expiry": 0,
+        "session": true,
+        "http_only": false,
+        "host_only": true,
+        "secure": false,
+        "same_site": "lax"}
+      ]
+  }
+}

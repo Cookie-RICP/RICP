@@ -1,0 +1,73 @@
+{
+  "bj.58.com": {
+    "ServerLocation": "Netherlands",
+    "cookieTotal": 68,
+    "cookiesCategory": {
+      "Necessary": [
+        ["city", "PROVIDER","58.com","HTTP",2592000]
+      ],
+      "Preferences": [],
+      "Statistics": [
+        ["BAIDUID_BFESS","baidu.com","HTTP", 977616000]
+      ],
+      "Marketing": [
+        ["BAIDUID","baidu.com","HTTP","Session"],
+        ["Hm_ck_#","58che.com","HTTP","Session"],
+        ["Hm_lpvt_#","58che.com", "HTTP", "Session"],
+        ["Hm_lpvt_#","hm.baidu.com","HTML","Session"],
+        ["Hm_lvt_#","58che.com","HTTP",31536000],
+        ["Hm_lvt_#","hm.baidu.com","HTML","Persistent"],
+        ["HMACCOUNT","baidu.com","HTTP",463708800],
+        ["HMACCOUNT_BFESS","baidu.com","HTTP",463708800],
+        ["utm_source","58.com","HTTP",86400]
+      ]
+    }
+  },
+  "www.alibaba.com": {
+    "ServerLocation": "Ireland",
+    "cookieTotal": 131,
+    "cookiesCategory": {
+      "Necessary": [
+        ["AKA_A2","alicdn.com","HTTP",86400],
+        ["i", "yandex.ru", ",HTTP", 315360000],
+        ["JSESSIONID", "offer.alibaba.com", "HTTP", "Session"],
+        ["test_cookie" ,"doubleclick.net" ,"HTTP" ,"1 day"],
+        ["ts", "creativecdn.com" ,"HTTP" ,"1 year"],
+        ["u" ,"creativecdn.com" ,"HTTP" ,"1 year"],
+        ["XSRF-TOKEN" ,"baize.alibaba.com", "HTTP" ,"Session"],
+        ["XSRF-TOKEN" ,"buyercentral.alibaba.com" ,"HTTP" ,"Session"],
+        ["XSRF-TOKEN" ,"clouddisk.alibaba.com" ,"HTTP" ,"Session"],
+        ["XSRF-TOKEN" ,"connectkeyword.alibaba.com", "HTTP", "Session"],
+        ["XSRF-TOKEN", "login.alibaba.com" ,"HTTP", "Session"],
+        ["XSRF-TOKEN", "messagebeach.alibaba.com" ,"HTTP", "Session"],
+        ["XSRF-TOKEN", "notification.alibaba.com", "HTTP", "Session"],
+        ["XSRF-TOKEN", "offer.alibaba.com", "HTTP", "Session"],
+        ["XSRF-TOKEN", "onetalk.alibaba.com", "HTTP" ,"Session"],
+        ["XSRF-TOKEN", "open-s.alibaba.com", "HTTP", "Session"],
+        ["XSRF-TOKEN", "passport.alibaba.com", "HTTP", "Session"],
+        ["XSRF-TOKEN", "ug.alibaba.com", "HTTP", "Session"]
+      ],
+      "Preferences": [
+        ["dc", "betweendigital.com", "HTTP" ,"1 year"],
+        ["l", "alibaba.com", "HTTP", "180 days"],
+        ["ss", "betweendigital.com", "HTTP", "1 year"]
+      ],
+      "Statistics": [
+        ["_ym#:#_reqNum", "yandex.ru" ,"HTML", "Persistent"],
+        ["_ym_retryReqs" ,"yandex.ru HTML", "Persistent"],
+        ["APLUS_CNA" ,"alibaba.com HTML", "Persistent"],
+        ["APLUS_LS_KEY", "assets.alicdn.com" ,"HTML", "Persistent"],
+        ["t" ,"alibaba.com" ,"HTTP", "117 months"],
+        ["x5secdata" ,"taobao.com" ,"HTTP", "1 day"],
+        ["xlly_s", "alibaba.com", "HTTP", "1 day"],
+        ["yandexuid" ,"yandex.ru", "HTTP", "10 years"],
+        ["ymex", "yandex.ru", "HTTP", "1 year"]
+      ],
+      "Marketing": [
+        ["__rtbh.lid", "i.alicdn.com", "HTTP", "1 year"],
+        ["__rtbh.lid", "tags.creativecdn.com", "HTML", "Persistent"],
+        ["__rtbh.uid", "i.alicdn.com" ,"HTTP", "1 year"]
+      ]
+    }
+  }
+}
